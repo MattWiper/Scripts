@@ -1,0 +1,12 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting\LocalDumps]
+"DumpCount"=dword:00000010
+"DumpFolder"="C:\\Users\\Administrator\\AppData\\CrashDumps"
+"DumpType"=dword:00000002
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting\LocalDumps\w3wp.exe]
+"DumpFolder"=hex(2):63,00,3a,00,5c,00,64,00,75,00,6d,00,70,00,73,00,00,00
+"DumpCount"=dword:00000002
+"DumpType"=dword:00000002
+
